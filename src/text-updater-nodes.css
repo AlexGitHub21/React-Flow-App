@@ -1,0 +1,23 @@
+.text-updater-node, .multiple-node, .shift-node {
+    height: 50px;
+    width: 120px;
+    border: 1px solid #eee;
+    padding: 5px;
+    border-radius: 5px;
+    background: white;
+  }
+  
+  .text-updater-node  label {
+    display: block;
+    color: #777;
+    font-size: 12px;
+  }
+  .text-updater-node input{
+      width: 100px;
+  }
+  .multiple-node, .shift-node p{
+    display: block;
+    color: #777;
+    font-size: 12px;
+  }
+  
